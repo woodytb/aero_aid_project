@@ -1,0 +1,43 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# ===== Logs & Telemetrie =====
+*.csv
+*.log
+logs/
+telemetry/
+reports/
+
+# ===== Video / Images =====
+*.mp4
+*.avi
+*.mov
+*.mkv
+captures/
+videos/
+
+# ===== OpenCV / Cache =====
+.cache/
+opencv_cache/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.idea/
+.vscode/
+
+# ===== Misc =====
+*.tmp
+*.bak
